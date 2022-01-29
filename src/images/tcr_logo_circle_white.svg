@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640px" height="640px" viewBox="0 0 640 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>tcr_logo_circle_white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Copy" transform="translate(-1320.000000, -779.000000)">
+            <g id="tcr_logo_circle_white" transform="translate(1320.000000, 779.000000)">
+                <circle id="Oval" stroke="#000000" fill="#FFFFFF" cx="320" cy="320" r="319.5"></circle>
+                <g id="logo_2" transform="translate(58.000000, 180.000000)">
+                    <path d="M12.5,268.5 L445,268.5 C482.279221,268.5 512.5,238.279221 512.5,201 L512.5,12.5 L80,12.5 C42.7207794,12.5 12.5,42.7207794 12.5,80 L12.5,268.5 Z" id="Rectangle-Copy" stroke="#000000" stroke-width="25" fill="#F2BB16" fill-rule="evenodd"></path>
+                    <text id="The-Copy" font-family="REVOLUTIONII, REVOLUTION II" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="57" y="61">T</tspan>
+                        <tspan x="71.26" y="61" font-family="Helvetica">he</tspan>
+                    </text>
+                    <text id="Community-Revolution" font-family="DeadRevolution, Dead Revolution" font-size="60" font-weight="normal" fill="#000000">
+                        <tspan x="93.5" y="132">Community</tspan>
+                        <tspan x="93.5" y="194">Revolution</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

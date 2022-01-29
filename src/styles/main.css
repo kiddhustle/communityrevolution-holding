@@ -1,0 +1,42 @@
+body {
+    background-color: #F2BB16;
+    color: #000;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+}
+.main {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header-logo {
+    color: #F2BB16;
+    text-indent: -9999px;
+    background: url("/images/tcr_logo_circle_white.png") no-repeat;
+    background-size: contain;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.logo {
+    max-width: 300px;
+}
+
+.fab {
+    color: #000;
+}
+
+.fab:active, .fab:focus {
+    color: #fff;
+}
+
+.footer {
+    /* height: 100px; */
+}
