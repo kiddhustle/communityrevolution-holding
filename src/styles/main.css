@@ -15,6 +15,13 @@ img {
     margin: 0 auto;
 }
 
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 .header-logo {
     color: #F2BB16;
     text-indent: -9999px;
