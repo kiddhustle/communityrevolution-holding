@@ -36,6 +36,17 @@ img {
     max-width: 300px;
 }
 
+/* links */
+
+a {
+    color: #000;
+    font-weight: bold;
+}
+
+a:active, a:focus {
+    color: #fff;
+}
+
 .fab {
     color: #000;
 }
